@@ -173,7 +173,7 @@ nav{
 
 /* ---------- MEDIA QUERY FOR SMALL SCREENS ---------- */
 
-@media screen and (max-width:900px){
+@media screen and (max-width:1680px){
     .menu-icon{
         display:none;
     }
@@ -372,7 +372,7 @@ nav{
 
 /* ---------- MEDIA_QUERY_PLAY_PAGE ---------- */
 
-@media screen and (max-width:900px){
+@media screen and (max-width:1680px){
     .play-video{
         flex-basis:100%;
     }
